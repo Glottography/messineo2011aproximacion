@@ -1,0 +1,23 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+anga1316,Angaité,,-22.85,-58.45,anga1316,,1,language,Lengua-Mascoy,languages
+ayor1240,Ayoreo,,-19.220055,-60.217495,ayor1240,,3,language,Zamucoan,languages
+cham1315,Chamacoco,,-20.5899,-58.2005,cham1315,,10 18,language,Zamucoan,languages
+iyow1239,Forest Chorote,,-22.2067,-62.6508,iyow1239,,4,language,Mataguayan,languages
+maca1260,Maká,,-25.0119,-57.3694,maca1260,,11,language,Mataguayan,languages
+moco1246,Mocoví,,-28.097,-60.4145,moco1246,,12,language,Guaicuruan,languages
+niva1238,Nivaclé,,-22.8557,-61.7606,niva1238,,13,language,Mataguayan,languages
+nort2971,Enlhet Norte,,-22.54,-58.98,nort2971,,6,language,Lengua-Mascoy,languages
+pila1245,Pilagá,,-25.0058,-60.1537,pila1245,,14,language,Guaicuruan,languages
+sana1298,Sanapaná,,-22.49,-58.38,sana1298,,15,language,Lengua-Mascoy,languages
+sout2989,Enxet Sur,,-23.427556,-57.945626,sout2989,,5 7,language,Lengua-Mascoy,languages
+tapi1253,Tapieté,,-21.4169,-62.684,tapi1253,,16,language,Tupian,languages
+tere1279,Terena-Kinikinao-Chane,,-20.6614,-56.0329,tere1279,,2,language,Arawakan,languages
+toba1269,Toba,,-23.77,-61.96,toba1269,,17,language,Guaicuruan,languages
+vile1241,Vilela,,-24.9161,-62.52232,vile1241,,19,language,,languages
+wich1264,Güisnay,,-23.1633,-62.1757,wich1264,,20,language,Mataguayan,languages
+araw1281,Arawakan,,,,araw1281,,2,family,,families
+guai1249,Guaicuruan,,,,guai1249,,12 14 17,family,,families
+leng1261,Lengua-Mascoy,,,,leng1261,,1 5 6 7 15,family,,families
+mata1289,Mataguayan,,,,mata1289,,4 11 13 20,family,,families
+tupi1275,Tupian,,,,tupi1275,,8 9 16,family,,families
+zamu1243,Zamucoan,,,,zamu1243,,3 10 18,family,,families

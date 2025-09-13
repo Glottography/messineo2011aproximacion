@@ -1,0 +1,23 @@
+{
+    "creators": [
+        {
+            "name": "The Glottography Consortium"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "glottography"
+        }
+    ],
+    "title": "Glottography dataset derived from Messineo 2011 \"Aproximaci\u00f3n tipol\u00f3gica a las lenguas ind\u00edgenas del Gran Chaco. Rasgos compartidos entre toba (familia guaycur\u00fa) y mak\u00e1 (familia mataco-mataguayo)\"",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Messineo, Cristina. 2011. Aproximaci\u00f3n tipol\u00f3gica a las lenguas ind\u00edgenas del Gran Chaco. Rasgos compartidos entre toba (familia guaycur\u00fa) y mak\u00e1 (familia mataco-mataguayo). Indiana. 183-225.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
