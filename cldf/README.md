@@ -15,7 +15,7 @@ property | value
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dc:spatial](http://purl.org/dc/terms/spatial) | westlimit=-64.7; southlimit=-30.5; eastlimit=-57.2; northlimit=-17.7
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/Glottography/messineo2011aproximacion
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/Glottography/messineo2011aproximacion/tree/47df0d1">Glottography/messineo2011aproximacion 47df0d1</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2">Glottolog v5.2</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/Glottography/messineo2011aproximacion/tree/106fccd">Glottography/messineo2011aproximacion 106fccd</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2">Glottolog v5.2</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | messineo2011aproximacion
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -71,7 +71,7 @@ We list the individual features from the source dataset as contributions in orde
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ContributionTable](http://cldf.clld.org/v1.0/terms.rdf#ContributionTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 20
+[dc:extent](http://purl.org/dc/terms/extent) | 21
 
 
 ### Columns
@@ -86,6 +86,7 @@ Name/Property | Datatype | Description
 [Glottocode](http://cldf.clld.org/v1.0/terms.rdf#glottocode) | `string`<br>Regex: `[a-z0-9]{4}[1-9][0-9]{3}` | References a Glottolog languoid most closely matching the linguistic entity described by the feature.
 [Year](http://purl.org/dc/terms/temporal) | `string`<br>Regex: `[0-9]{3,4}|traditional` | The time period to which the feature relates, specified as year AD or with the keyword 'traditional', meaning either the time of contact with European maritime powers or period when an ancient language was spoken.
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
-[Media_ID](http://cldf.clld.org/v1.0/terms.rdf#mediaReference) | `string` | Features are linked to GeoJSON files that store the geo data.<br>References [media.csv::ID](#table-mediacsv)
-`Map_Name` | `string` | Name of the map as given in the source publication.
+[Media_IDs](http://cldf.clld.org/v1.0/terms.rdf#mediaReference) | list of `string` (separated by ` `) | Contributions of type 'feature' are linked to GeoJSON files that store the geo data.  can be related to various kinds of media. Contributions of type 'map' are linked to the corresponding scans of maps and geo-data derived from these.<br>References [media.csv::ID](#table-mediacsv)
+`Type` | `string`<br>Valid choices:<br> `map` `feature` | There are two types of contributions: Individual geo-features as depicted in the source and images of maps.
+[Map_IDs](http://cldf.clld.org/v1.0/terms.rdf#contributionReference) | list of `string` (separated by ` `) | Contributions of type 'feature' link to the maps on which they appear.<br>References [contributions.csv::ID](#table-contributionscsv)
 

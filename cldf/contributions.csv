@@ -1,21 +1,22 @@
-ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_ID,Map_Name
-1,Angaité,,,,anga1316,2011,messineo2011aproximacion,features,Mapa 1
-2,Ava guarani-chané,,,,chan1322,2011,messineo2011aproximacion,features,Mapa 1
-3,Ayoreo,,,,ayor1240,2011,messineo2011aproximacion,features,Mapa 1
-4,Chorote,,,,iyow1239,2011,messineo2011aproximacion,features,Mapa 1
-5,Enlhet,,,,sout2989,2011,messineo2011aproximacion,features,Mapa 1
-6,Enlhet norte,,,,nort2971,2011,messineo2011aproximacion,features,Mapa 1
-7,Enxet sur,,,,sout2989,2011,messineo2011aproximacion,features,Mapa 1
-8,Guarani occidental,,,,tupi1282,2011,messineo2011aproximacion,features,Mapa 1
-9,Guarani ñandeva,,,,tupi1282,2011,messineo2011aproximacion,features,Mapa 1
-10,Ishir,,,,cham1315,2011,messineo2011aproximacion,features,Mapa 1
-11,Maká,,,,maca1260,2011,messineo2011aproximacion,features,Mapa 1
-12,Mocoví,,,,moco1246,2011,messineo2011aproximacion,features,Mapa 1
-13,Nivaklé,,,,niva1238,2011,messineo2011aproximacion,features,Mapa 1
-14,Pilagá,,,,pila1245,2011,messineo2011aproximacion,features,Mapa 1
-15,Sanapana,,,,sana1298,2011,messineo2011aproximacion,features,Mapa 1
-16,Tapiete,,,,tapi1253,2011,messineo2011aproximacion,features,Mapa 1
-17,Toba,,,,toba1269,2011,messineo2011aproximacion,features,Mapa 1
-18,Tomaraho,,,,cham1316,2011,messineo2011aproximacion,features,Mapa 1
-19,Vilela,,,,vile1241,2011,messineo2011aproximacion,features,Mapa 1
-20,Wichi,,,,wich1264,2011,messineo2011aproximacion,features,Mapa 1
+ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_IDs,Type,Map_IDs
+map_1,Mapa 1,Lenguas indígenas de la Regíon del Gran Chaco,,,,,messineo2011aproximacion,,map,
+1,Angaité,,,,anga1316,2011,messineo2011aproximacion,features,feature,map_1
+2,Ava guarani-chané,,,,chan1322,2011,messineo2011aproximacion,features,feature,map_1
+3,Ayoreo,,,,ayor1240,2011,messineo2011aproximacion,features,feature,map_1
+4,Chorote,,,,iyow1239,2011,messineo2011aproximacion,features,feature,map_1
+5,Enlhet,,,,sout2989,2011,messineo2011aproximacion,features,feature,map_1
+6,Enlhet norte,,,,nort2971,2011,messineo2011aproximacion,features,feature,map_1
+7,Enxet sur,,,,sout2989,2011,messineo2011aproximacion,features,feature,map_1
+8,Guarani occidental,,,,tupi1282,2011,messineo2011aproximacion,features,feature,map_1
+9,Guarani ñandeva,,,,tupi1282,2011,messineo2011aproximacion,features,feature,map_1
+10,Ishir,,,,cham1315,2011,messineo2011aproximacion,features,feature,map_1
+11,Maká,,,,maca1260,2011,messineo2011aproximacion,features,feature,map_1
+12,Mocoví,,,,moco1246,2011,messineo2011aproximacion,features,feature,map_1
+13,Nivaklé,,,,niva1238,2011,messineo2011aproximacion,features,feature,map_1
+14,Pilagá,,,,pila1245,2011,messineo2011aproximacion,features,feature,map_1
+15,Sanapana,,,,sana1298,2011,messineo2011aproximacion,features,feature,map_1
+16,Tapiete,,,,tapi1253,2011,messineo2011aproximacion,features,feature,map_1
+17,Toba,,,,toba1269,2011,messineo2011aproximacion,features,feature,map_1
+18,Tomaraho,,,,cham1316,2011,messineo2011aproximacion,features,feature,map_1
+19,Vilela,,,,vile1241,2011,messineo2011aproximacion,features,feature,map_1
+20,Wichi,,,,wich1264,2011,messineo2011aproximacion,features,feature,map_1
