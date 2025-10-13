@@ -1,4 +1,6 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+cham1316,Tomaraho,,,,cham1316,,18,dialect,Zamucoan,dialects
+chan1322,Chané,,-18.186,-62.638,chan1322,,2,dialect,Arawakan,dialects
 anga1316,Angaité,,-22.85,-58.45,anga1316,,1,language,Lengua-Mascoy,languages
 ayor1240,Ayoreo,,-19.220055,-60.217495,ayor1240,,3,language,Zamucoan,languages
 cham1315,Chamacoco,,-20.5899,-58.2005,cham1315,,10 18,language,Zamucoan,languages
