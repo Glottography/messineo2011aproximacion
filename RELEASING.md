@@ -50,3 +50,14 @@ cldfbench geojson.glottolog_distance cldf --format pipe
 | toba1269 | 1.59 | False | 4 |
 | vile1241 | 2.59 | False | 1 |
 | wich1264 | 0.00 | True | 1 |
+
+
+## Release
+
+Commit and push all changes.
+
+Run
+```
+cldfbench glottography.release cldfbench_messineo2011aproximacion.py vX.Y
+```
+and follow the instructions given in the output of the command.
